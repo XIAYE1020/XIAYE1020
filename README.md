@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @XIAYE1020
-- 🌱 I’m currently learning Java Python
+- 🌱 I’m currently learning Java and Python
 - 📫 How to reach me :2302762460@qq.com
 - From Jiangsu China
 
