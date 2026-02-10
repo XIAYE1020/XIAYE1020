@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @XIAYE1020
 - 🌱 I’m currently learning Java and Python
-- 📫 How to reach me :2302762460@qq.com
+- 📫 How to reach me :yexia5075.com
 - From Jiangsu China
 
 <!---
