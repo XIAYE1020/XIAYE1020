@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @XIAYE1020
 - 🌱 I’m currently learning C++ and Python
-- 📫 How to reach me :yexia5075@gmail.com
+- 📫 How to reach me :lnoxy3g@gmail.com
 - From Jiangsu China
 
 <!---
