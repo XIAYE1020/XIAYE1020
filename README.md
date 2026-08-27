@@ -19,7 +19,7 @@
 
 ### 🛠 Technical Toolbox
 - **Languages:** Proficient in **C++** and **Python**.
-- **Fields:** Interested in [Distributed Systems / Computer Vision / Distributed Computing].
+- **Fields:** Interested in [Distributed Systems / Computer Network / Agent].
 - **Foundation:** Strong background in Data Structures, Algorithms, and Operating Systems.
 
 ### 📬 Reach Me
